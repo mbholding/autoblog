@@ -49,7 +49,7 @@
 		</form>
 
 					<p id="nav">
-									<a href="https://mbholding.github.io/autoblog/wp-login.php?action=lostpassword">Lost your password?</a>
+									<a href="https://mbholding.github.io/autoblog/my-account/lost-password/">Lost your password?</a>
 								</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
