@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Products &#8211; autoblog1</title>
+	<atom:link href="https://mbholding.github.io/autoblog/shop-2-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mbholding.github.io/autoblog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 22 Apr 2020 21:07:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Products 2</title>
+		<link>https://mbholding.github.io/autoblog/product/products-2/</link>
+					<comments>https://mbholding.github.io/autoblog/product/products-2/#respond</comments>
+		
+		<dc:creator><![CDATA[autoblog1]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 21:07:51 +0000</pubDate>
+				<guid isPermaLink="false">https://mbholding.github.io/autoblog/?post_type=product&#038;p=16</guid>
+
+					<description><![CDATA[Test this amazing product <a class="g1-link g1-link-more" href="https://mbholding.github.io/autoblog/product/products-2/">More</a>]]></description>
+										<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-17" src="https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/shopify-logo-600x600-1-300x300.jpg" alt="" width="300" height="300" srcset="https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/shopify-logo-600x600-1-300x300.jpg 300w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/shopify-logo-600x600-1-100x100.jpg 100w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/shopify-logo-600x600-1-150x150.jpg 150w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/shopify-logo-600x600-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mbholding.github.io/autoblog/product/products-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Product 1</title>
+		<link>https://mbholding.github.io/autoblog/product/product-1/</link>
+					<comments>https://mbholding.github.io/autoblog/product/product-1/#respond</comments>
+		
+		<dc:creator><![CDATA[autoblog1]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 20:15:09 +0000</pubDate>
+				<guid isPermaLink="false">https://mbholding.github.io/autoblog/?post_type=product&#038;p=10</guid>
+
+					<description><![CDATA[This is an amazing product y'all <a class="g1-link g1-link-more" href="https://mbholding.github.io/autoblog/product/product-1/">More</a>]]></description>
+										<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-11" src="https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/505-5059404_transparent-tiktok-logo-hd-png-download-300x194.png" alt="" width="300" height="194" srcset="https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/505-5059404_transparent-tiktok-logo-hd-png-download-300x194.png 300w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/505-5059404_transparent-tiktok-logo-hd-png-download-600x389.png 600w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/505-5059404_transparent-tiktok-logo-hd-png-download-768x497.png 768w, https://mbholding.github.io/autoblog/wp-content/uploads/2020/04/505-5059404_transparent-tiktok-logo-hd-png-download.png 860w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mbholding.github.io/autoblog/product/product-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
